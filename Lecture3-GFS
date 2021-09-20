@@ -1,0 +1,4 @@
+Why Hard?
+- Performance -> Sharding
+- Fault tolerance -> Replication can lead to out of sync/In consistency
+- If we want consistency we increase communciation but this decreases performance
